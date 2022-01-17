@@ -21062,3 +21062,76 @@ input:checked + .slider:before {
 {
   margin: 40px 0;
 }
+
+.mrate_apps
+{
+  margin: 55px 0 16px 0;
+}
+
+.lar 
+{
+  margin: 41px 0 22px 0;
+}
+
+.placeholder_odiv_coach_review
+{
+  position: relative;
+  height: 200px;
+  z-index: 9;
+  border: 1px solid #DADADA;
+  box-sizing: border-box;
+  /* border-radius: 5px 5px 0 0; */
+  border-radius: 5px;
+  text-align: left;
+  padding: 15px; 
+}
+
+.placeholder_idiv_coach_review
+{
+  position: absolute;
+  top: 4.5rem;
+  bottom: 1rem;
+  right: 10px;
+  left: 10px;
+  z-index: 10;
+  background: transparent;
+  border: 0;
+  box-shadow: unset;
+  text-align: left;
+  height: auto;
+  width: 95%;
+  margin: auto;
+  padding: 15px;      
+  font-size: 16px;  
+  color: #5D5D5D;
+}
+
+.placeholder_idiv_coach_review:focus,
+.placeholder_idiv_coach_review:hover
+{ 
+  outline: none !important;
+  border: 1px solid #DADADA;
+  box-shadow: unset;
+  background: #ffffff;
+  left: 10px;
+  right: 10px;
+  /* top: 0;
+  bottom: 0;
+  width: 94%;
+  border: 1px solid #DADADA; */
+  top: 10px;
+  bottom: 25px;
+  width: 93%;
+  border: 0;
+  box-sizing: border-box;
+  border-radius: 5px;
+  text-align: left;
+  padding: 25px 15px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;  
+  color: #5d5d5d;
+}
