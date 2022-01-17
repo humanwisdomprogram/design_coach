@@ -66,7 +66,7 @@
     /* or 16px */
     /* display: flex;
     align-items: center; */
-    color: #4491A5;
+    color: #1092A7;
 }
 
 .txt61 
@@ -371,7 +371,7 @@
     font-size: 16px;
     line-height: 19px;
     /* identical to box height */        
-    color: #4491A5;    
+    color: #1092A7;    
 }
 
 .txt87 
@@ -468,7 +468,7 @@
     line-height: 130%;
     /* or 26px */    
     text-decoration-line: underline;    
-    color: #4491A5;    
+    color: #1092A7;    
 }
 
 .txt104 
@@ -560,7 +560,7 @@
     font-size: 14px;
     line-height: 16px;
     text-align: right;
-    color: #4491A5;
+    color: #1092A7;
 }
 
 .txt112 
@@ -580,7 +580,7 @@
     font-weight: 500;
     font-size: 18px;
     line-height: 21px;
-    color: #4491A5;
+    color: #1092A7;
 }
 
 .txt114 
@@ -600,7 +600,7 @@
     font-weight: 500;
     font-size: 12px;
     line-height: 14px;
-    color: #4491A5;
+    color: #1092A7;
 }
 
 .txt116 
@@ -622,7 +622,7 @@
     line-height: 130%;
     -webkit-text-decoration-line: underline;
     text-decoration-line: underline;
-    color: #4491A5;
+    color: #1092A7;
 }
 
 .txt118 
@@ -663,7 +663,7 @@
     font-size: 14px;
     line-height: 16px;
     text-align: right;
-    color: #4491A5;
+    color: #1092A7;
 }
 
 .stxt54 
@@ -674,7 +674,7 @@
   font-size: 12px;
   line-height: 14px;
   /* identical to box height */
-  color: #4491A5;
+  color: #1092A7;
 }
 
 .stxt61 
@@ -685,7 +685,7 @@
     font-size: 14px;
     line-height: 16px;
     text-align: right;
-    color: #4491A5;
+    color: #1092A7;
 }
 
 .txt122 
@@ -731,7 +731,7 @@
     font-weight: 500;
     font-size: 14px;
     line-height: 16px;    
-    color: #4491A5;    
+    color: #1092A7;    
 }
 
 .txt126 
@@ -763,7 +763,7 @@
     /* identical to box height */    
     display: flex;
     align-items: center;  
-    color: #4491A5;    
+    color: #1092A7;    
 }
 
 .txt129 
@@ -775,7 +775,7 @@
     line-height: 12px;
     /* identical to box height */        
     text-align: right;    
-    color: #4491A5;    
+    color: #1092A7;    
 }
 
 .txt130 
@@ -802,7 +802,7 @@
     font-style: normal;
     font-weight: 500;
     font-size: 12px;
-    color: #4491A5;
+    color: #1092A7;
 }
 
 .txt133 
@@ -866,7 +866,7 @@
     /* identical to box height */    
     display: flex;
     align-items: center;    
-    color: #4491A5;    
+    color: #1092A7;    
 }
 
 .txt139 
@@ -1022,21 +1022,22 @@
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
-    font-size: 36px;
-    line-height: 120%;
-    /* or 43px */
-    color: #000000;
+    font-size: 16px;
+    line-height: 22px;
+    /* or 137% */
+    color: #5D5D5D;
 }
 
 .txt153 
 {
     font-family: Roboto;
     font-style: normal;
-    font-weight: 300;
-    font-size: 18px;
-    line-height: 130%;
-    /* or 23px */
-    color: #000000;    
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+    /* or 137% */    
+    text-decoration-line: underline;    
+    color: #1092A7;
 }
 
 .txt154 
@@ -1044,23 +1045,25 @@
     font-family: Roboto;
     font-style: normal;
     font-weight: bold;
-    font-size: 12px;
-    line-height: 14px;
-    /* identical to box height */    
+    font-size: 22px;
+    line-height: 140%;
+    /* or 31px */    
     display: flex;
     align-items: center;    
-    color: #FFFFFF;
+    color: #FFC455;    
 }
 
 .txt155 
 {
     font-family: Roboto;
     font-style: normal;
-    font-weight: bold;
-    font-size: 12px;
-    line-height: 130%;
-    /* or 16px */
-    color: #B92F48;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 140%;
+    /* or 22px */    
+    display: flex;
+    align-items: center;    
+    color: #FFFFFF;    
 }
 
 .txt156 
@@ -1068,45 +1071,41 @@
     font-family: Roboto;
     font-style: normal;
     font-weight: 500;
-    font-size: 12px;
-    line-height: 130%;
-    /* or 16px */
-    color: #5D5D5D;    
+    font-size: 16px;       
+    color: #FFC455;
 }
 
 .txt157 
 {
     font-family: Roboto;
     font-style: normal;
-    font-weight: 500;
-    font-size: 12px;
-    line-height: 14px;
-    /* identical to box height */        
-    text-align: right;
-    text-decoration-line: underline;    
-    color: #4491A5;
+    font-weight: 300;
+    font-size: 58px;
+    line-height: 110%;
+    /* or 64px */    
+    color: #FFC455;
 }
 
 .txt158 
 {
     font-family: Roboto;
     font-style: normal;
-    font-weight: bold;
+    font-weight: 500;
     font-size: 12px;
-    line-height: 130%;
-    /* identical to box height, or 16px */
-    color: #000000;
+    line-height: 14px;
+    /* identical to box height */
+    color: #FFFFFF;
 }
 
 .txt159 
 {
     font-family: Roboto;
     font-style: normal;
-    font-weight: bold;
-    font-size: 16px;
+    font-weight: 500;
+    font-size: 14px;
     line-height: 130%;
-    /* identical to box height, or 21px */    
-    color: #B92F48;
+    /* or 18px */    
+    color: #FFFFFF;
 }
 
 .txt160 
@@ -1114,20 +1113,21 @@
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
-    font-size: 20px;
-    line-height: 120%;
-    /* identical to box height, or 24px */    
-    color: #000000;
+    font-size: 12px;
+    line-height: 14px;
+    /* identical to box height */        
+    color: #FFC455;
 }
 
 .txt161 
 {
     font-family: Roboto;
     font-style: normal;
-    font-weight: normal;
-    font-size: 12px;
-    line-height: 120%;
-    /* or 14px */    
+    font-weight: bold;
+    font-size: 21px;
+    line-height: 130%;
+    /* or 27px */    
+    text-align: center;    
     color: #000000;    
 }
 
@@ -1137,10 +1137,10 @@
     font-style: normal;
     font-weight: bold;
     font-size: 14px;
-    line-height: 130%;
-    /* or 18px */
-    text-decoration-line: underline;    
-    color: #4491A5;
+    line-height: 16px;
+    text-align: center;
+    letter-spacing: 0.2em;    
+    color: #1092A7;    
 }
 
 .txt163 
@@ -1148,11 +1148,11 @@
     font-family: Roboto;
     font-style: normal;
     font-weight: bold;
-    font-size: 12px;
-    line-height: 14px;
+    font-size: 28px;
+    line-height: 33px;
     /* identical to box height */    
-    text-decoration-line: underline;    
-    color: #4491A5;
+    text-align: center;    
+    color: #1092A7;    
 }
 
 .txt164 
@@ -1160,11 +1160,11 @@
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
-    font-size: 20px;
+    font-size: 14px;
     line-height: 130%;
-    /* or 26px */    
+    /* or 18px */    
     text-align: center;    
-    color: #5D5D5D;    
+    color: #000000;
 }
 
 .txt165 
@@ -1172,32 +1172,34 @@
     font-family: Roboto;
     font-style: normal;
     font-weight: bold;
-    font-size: 24px;
-    line-height: 150%;
-    /* or 36px */    
-    text-align: center;    
-    color: #B92F48;    
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    letter-spacing: 0.2em;    
+    color: #59595B;
 }
 
 .txt166 
 {
     font-family: Roboto;
     font-style: normal;
-    font-weight: normal;
-    font-size: 15px;
-    line-height: 18px;    
-    color: #000000;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 25px;
+    text-align: center;    
+    color: #5D5D5D;    
 }
 
 .txt167 
 {
     font-family: Roboto;
     font-style: normal;
-    font-weight: 500;
-    font-size: 16px;
+    font-weight: bold;
+    font-size: 56px;
     line-height: 130%;
-    /* or 21px */
-    color: #000000;
+    /* identical to box height, or 73px */    
+    text-align: center;    
+    color: #1092A7;    
 }
 
 .txt168 
@@ -1205,9 +1207,10 @@
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
-    font-size: 14px;
-    line-height: 16px;    
-    color: #5D5D5D;
+    font-size: 21px;
+    line-height: 25px;
+    text-align: center;    
+    color: #5D5D5D;    
 }
 
 .txt169 
@@ -1215,7 +1218,933 @@
     font-family: Roboto;
     font-style: normal;
     font-weight: bold;
+    font-size: 28px;
+    line-height: 33px;
+    text-align: center;    
+    color: #FFFFFF;    
+}
+
+.txt170 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 130%;
+    /* or 18px */    
+    text-align: center;    
+    color: #FFFFFF;
+}
+
+.txt171 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 21px;
+    line-height: 130%;
+    /* or 27px */    
+    text-align: center;    
+    color: #FFFFFF;    
+}
+
+.txt172 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 21px;
+    line-height: 130%;
+    /* or 27px */    
+    text-align: center;    
+    color: #59595B;    
+}
+
+.txt173 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 130%;
+    /* or 18px */    
+    text-align: center;    
+    color: #59595B;    
+}
+
+.txt174 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 130%;
+    /* or 36px */      
+    color: #59595B;    
+}
+
+.txt175 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 130%;
+    /* or 31px */   
+    color: #FFFFFF;    
+}
+
+.txt176 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 130%;
+    /* or 23px */
+    color: #FFFFFF;    
+}
+
+.txt177 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;    
+    color: #5D5D5D;    
+}
+
+.txt178 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 130%;    
+    color: #B92F48;
+}
+
+.txt179 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;    
+    color: #FFFFFF;
+}
+
+.txt180 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+    /* identical to box height */    
+    color: #FFC455;    
+}
+
+.txt181 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 130%;
+    /* identical to box height, or 16px */    
+    text-align: center;
+    letter-spacing: 0.1em;    
+    color: #FFFFFF;    
+}
+
+.txt182 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 120%;
+    /* or 29px */
+    color: #000000;    
+}
+
+.txt183 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 120%;
+    /* or 29px */
+    color: #000000;    
+}
+
+.txt184 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 140%;
+    /* or 20px */    
+    text-align: center;    
+    color: #000000;
+}
+
+.txt185 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 140%;
+    /* or 17px */    
+    text-align: center;    
+    color: #000000;    
+}
+
+.txt186 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 140%;
+    /* or 17px */    
+    text-align: center;    
+    color: #5D5D5D;
+}
+
+.txt187 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
     font-size: 14px;
     line-height: 16px;    
-    color: #B92F48;    
+    color: #FFFFFF;        
+}
+
+.txt188 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;    
+    color: #FFFFFF;    
+}
+
+.txt189 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;    
+    color: #FFFFFF;    
+    opacity: 0.5;
+}
+
+.txt190 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 1.8;
+    /* or 17px */
+    color: #FFFFFF;    
+}
+
+.txt191 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+    letter-spacing: 0.12em;    
+    color: #243949;    
+}
+
+.txt192 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 140%;
+    /* or 20px */        
+    color: #FFFFFF;
+}
+
+.txt193 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 130%;
+    /* or 23px */
+    color: #FFFFFF;
+}
+
+.txt194 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 150%;
+    /* or 27px */
+    color: #000000;
+}
+
+.txt195 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 130%;
+    /* or 39px */
+    color: #FFFFFF;    
+}
+
+.txt196 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 16px;
+    text-align: center;
+    /* letter-spacing: 0.2em; */
+    color: #59595B;
+}
+
+.txt197
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 130%;
+    color: #59595B;
+}
+
+.txt198 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 150%;
+    /* or 27px */    
+    text-decoration-line: underline;    
+    color: #000000;
+}
+
+.txt199 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 150%;
+    /* or 27px */    
+    text-decoration-line: underline;    
+    color: #FFFFFF;    
+}
+
+.txt200 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 150%;
+    /* or 27px */    
+    text-decoration-line: underline;    
+    color: #1092A7;
+}
+
+.txt201 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;    
+    color: #000000;    
+}
+
+.txt202 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+}
+
+.txt203 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    display: flex;
+    align-items: center;    
+    color: #000000;    
+}
+
+.txt204 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 14px;
+    /* identical to box height */        
+    color: #FFFFFF;
+}
+
+.txt205 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    color: #FFFFFF;
+}
+
+.txt206 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+
+.txt207 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+    color: #5D5D5D;
+}
+
+.txt208 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 14px;
+    /* identical to box height */
+    color: #1092A7;
+}
+
+.txt209 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 10px;
+    line-height: 12px;
+    color: #243949;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.txt210 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.txt211 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    color: #1092A7;
+}
+
+.txt212 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 16px;
+    color: #5D5D5D;
+}
+
+.txt213 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+    color: #ADADAD;
+}
+
+.txt214 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+}
+
+.txt215 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+}
+
+.txt216 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 150%;
+    /* or 15px */
+    color: #ADADAD;
+}
+
+.txt217 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 150%;
+    /* or 21px */
+    color: #000000;
+}
+
+.txt218 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 130%;
+    /* or 29px */
+    color: #000000;
+}
+
+.txt219 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 140%;
+    /* or 20px */
+    color: #5D5D5D;
+}
+
+.txt220 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 130%;
+    /* identical to box height, or 16px */
+    color: #ADADAD;
+}
+
+.txt221 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 150%;
+    /* identical to box height, or 18px */
+    color: #5D5D5D;
+}
+
+.txt222 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 12px;
+    display: flex;
+    align-items: center;
+    color: #ADADAD;
+}
+
+.txt223 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    color: #4491A5;
+}
+
+.txt224 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 150%;
+    /* or 27px */
+    text-decoration-line: underline;
+    color: #1092A7;
+}
+
+.txt225 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 140%;
+    /* or 25px */
+    color: #000000;
+}
+
+.txt226 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+    color: #5D5D5D;
+}
+
+.txt227 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 140%;
+    /* or 34px */
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.txt228  
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 130%;
+    /* or 21px */
+    text-align: center;
+    color: #243949;
+}
+
+.txt229 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 130%;
+    /* or 31px */
+    color: #5D5D5D;
+}
+
+.txt230 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 130%;
+    /* identical to box height, or 23px */
+    color: #000000;
+}
+
+.txt231 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 130%;
+    /* or 18px */
+    color: #5D5D5D;
+}
+
+.txt232 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #243949;
+}
+
+.txt233 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #FFC455;
+}
+
+.txt234 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 130%;
+    /* or 16px */
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.txt235 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 16px;
+    color: #B92F48;
+}
+
+.txt236 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    color: #5D5D5D;
+}
+
+.txt237 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 130%;
+    /* identical to box height, or 16px */
+    color: #000000;
+}
+
+.txt238 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+    color: #1092A7;
+}
+
+.txt239 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 140%;
+    /* or 17px */
+    color: #5D5D5D;
+}
+
+.txt240 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 180%;
+    /* or 25px */
+    color: #FFFFFF;    
+}
+
+.txt241 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 180%;
+    /* or 25px */
+    color: #FFC455;
+}
+
+.txt242 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 180%;
+    /* or 25px */
+    color: #FFFFFF;
+}
+
+.txt243 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+    letter-spacing: 0.12em;
+    color: #FFFFFF;
+}
+
+.txt244 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 140%;
+    /* or 17px */
+    color: #FFFFFF;
+}
+
+.txt245 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 140%;
+    /* or 17px */
+    color: #FFFFFF;
+}
+
+.txt246 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 40px;
+    line-height: 47px;
+    color: #FFFFFF;
+}
+
+.txt247 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 130%;
+    /* or 18px */
+    color: #243949;
+}
+
+.txt248 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 130%;
+    /* or 18px */
+    color: #243949;
+}
+
+.txt249 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 56px;
+    line-height: 130%;
+    /* identical to box height, or 73px */
+    color: #59595B;
+}
+
+.txt250 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 42px;
+    color: #FFFFFF;
+}
+
+.txt251 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFC455;
+}
+
+.txt252 
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
 }

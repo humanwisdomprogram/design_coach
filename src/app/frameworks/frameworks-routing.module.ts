@@ -65,6 +65,14 @@ const routes: Routes = [
     path: 'coach-calendar-plugin',
     loadChildren: () => import('./coach-calendar-plugin/coach-calendar-plugin.module').then( m => m.CoachCalendarPluginPageModule)
   },
+  {
+    path: 'coach-login',
+    loadChildren: () => import('./coach-login/coach-login.module').then( m => m.CoachLoginPageModule)
+  },
+  {
+    path: 'coach-review',
+    loadChildren: () => import('./coach-review/coach-review.module').then( m => m.CoachReviewPageModule)
+  },
 
 ];
 
