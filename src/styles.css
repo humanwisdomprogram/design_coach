@@ -20378,6 +20378,7 @@ and (orientation : portrait)
   white-space: break-spaces;
 }
 
+/* coach ui */
 .img_coach 
 {
   margin: 5px -10px 0 -10px;
@@ -21135,3 +21136,9 @@ input:checked + .slider:before {
   line-height: 19px;  
   color: #5d5d5d;
 }
+
+.dcontents 
+{
+  display: contents;
+}
+/* /coach ui */
